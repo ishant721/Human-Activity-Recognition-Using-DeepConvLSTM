@@ -1,4 +1,4 @@
-# Human Activity Recognition using Deep Learning
+# Human Activity recognition using UCI HAR
 
 This project focuses on Human Activity Recognition (HAR) using various deep learning models. The goal is to classify human activities based on sensor data. We have implemented and evaluated three different deep learning architectures: a 1D Convolutional Neural Network (CNN), a Long Short-Term Memory (LSTM) network, and a hybrid model combining both CNN and LSTM layers.
 
