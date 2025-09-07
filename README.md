@@ -19,17 +19,17 @@ The dataset is pre-processed and split into training and testing sets.
 
 We have implemented the following deep learning models for this task:
 
-### 1. 1D Convolutional Neural Network (CNN)
+### 1. Convolutional Neural Network (CNN)
 
 The CNN model is designed to effectively capture the local patterns and features from the sensor data. The architecture consists of several 1D convolutional layers followed by max-pooling layers to extract hierarchical features.
 
-**Accuracy:** 92.8%
+**Accuracy:** 95%
 
 ### 2. Long Short-Term Memory (LSTM)
 
 The LSTM model is a type of recurrent neural network (RNN) that is well-suited for sequence data. It is designed to learn long-term dependencies in the time-series sensor data.
 
-**Accuracy:** 91%
+**Accuracy:** 94%
 
 ### 3. Hybrid CNN-LSTM Model
 
